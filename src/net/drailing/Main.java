@@ -12,8 +12,6 @@ public class Main {
 			new Surface();
 			new RemoteServer();
 
-			// Process process = Runtime.getRuntime().exec("C:\\Program Files (x86)\\Notepad++\\notepad++.exe");
-
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
