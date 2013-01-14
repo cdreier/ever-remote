@@ -200,7 +200,7 @@ public class Surface extends JFrame {
 
 	private void createCommandNameEditor() {
 		JLabel l = new JLabel("Name: ");
-		l.setBounds(160, 2, 40, 30);
+		l.setBounds(160, 2, 50, 30);
 
 		this.txtName = new JTextField();
 		this.txtName.setBounds(210, 2, 280, 30);
